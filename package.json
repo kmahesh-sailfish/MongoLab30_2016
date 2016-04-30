@@ -1,0 +1,17 @@
+{
+  "name": "untitled1",
+  "version": "1.0.0",
+  "description": "Contact List is a RESTful API server and web application built with the MEAN stack. It is a simple example that aims to concisely demonstrate basic MEAN and REST architecture. You can find the full tutorial here: https://devcenter.heroku.com/articles/mean-apps-restful-api.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.18"
+  }
+}
